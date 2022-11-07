@@ -22,7 +22,7 @@ function App() {
     setDice(allNewDice())
   }
 
-  const diceElements = dice.map(dieNum => <Die key={die.id} value={dieNum}/>)
+  const diceElements = dice.map(dieNum => (<Die key={dieNum.id} value={dieNum.value} isHeld={dieNum.isHeld}/>))
 
   return (
     <main>
