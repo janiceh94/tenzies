@@ -1,5 +1,8 @@
 Tenzies game following Scrimba React course with Bob Ziroll
 
+![Screen Shot 2022-11-07 at 4 03 31 PM](https://user-images.githubusercontent.com/93102224/200441511-24117979-1f42-4803-bd90-191a5d0b8016.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
